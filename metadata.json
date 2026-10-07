@@ -1,0 +1,6 @@
+{
+  "name": "ToonAI - AI Cartoon Video Studio",
+  "description": "Create unlimited animated cartoon videos with AI storyboards, voiceovers, character animations, and instant video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
